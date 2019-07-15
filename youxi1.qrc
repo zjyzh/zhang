@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>youxi/beijing.jpg</file>
+        <file>youxi/bellis_close_up.png</file>
+        <file>youxi/blowver_close_up.png</file>
+        <file>youxi/bonkchoy_close_up.png</file>
+        <file>youxi/caonidi.png</file>
+        <file>youxi/caonidi111.png</file>
+        <file>youxi/CherryBomb_close_up.png</file>
+        <file>youxi/ciligu_plantfood_close_up.png</file>
+        <file>youxi/ditu2.png</file>
+        <file>youxi/ditu3.png</file>
+        <file>youxi/ditu4.jpg</file>
+        <file>youxi/gifmill.gif</file>
+        <file>youxi/heiwandou.png</file>
+        <file>youxi/jiangsi.png</file>
+        <file>youxi/jiangsi2.png</file>
+        <file>youxi/kernalpultl_close_up.png</file>
+        <file>youxi/little_watermelon_close_up.png</file>
+        <file>youxi/mogu.png</file>
+        <file>youxi/qgif1.gif</file>
+        <file>youxi/qgif2.gif</file>
+        <file>youxi/qiqiu.jpg</file>
+        <file>youxi/Sky-9.jpg</file>
+        <file>youxi/wallnut_close_up.png</file>
+        <file>youxi/wandou.png</file>
+        <file>youxi/waterpea_close_up.png</file>
+        <file>youxi/zoomb1.gif</file>
+        <file>youxi/zoomb2.gif</file>
+        <file>youxi/zoomb3.gif</file>
+        <file>youxi/zoomb4.gif</file>
+        <file>youxi/zoombgif.gif</file>
+        <file>youxi/beijingh.png</file>
+        <file>youxi/zmap444.png</file>
+    </qresource>
+</RCC>

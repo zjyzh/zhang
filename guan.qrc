@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>guanqia/1.png</file>
+        <file>guanqia/2.png</file>
+        <file>guanqia/3.png</file>
+        <file>guanqia/4.png</file>
+        <file>guanqia/5.png</file>
+        <file>guanqia/6.png</file>
+        <file>guanqia/7.png</file>
+        <file>guanqia/8.png</file>
+        <file>guanqia/9.png</file>
+        <file>guanqia/10.png</file>
+        <file>music/8bitDungeonLevel.mp3</file>
+        <file>music/enemy_destroy.wav</file>
+        <file>music/laser_shoot.wav</file>
+        <file>music/life_lose.wav</file>
+        <file>music/tower_place.wav</file>
+    </qresource>
+</RCC>

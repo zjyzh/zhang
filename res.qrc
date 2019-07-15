@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>little/back.png</file>
+        <file>little/back1.png</file>
+        <file>little/baoweinaoz.png</file>
+        <file>little/bgm.png</file>
+        <file>little/bgmclick.png</file>
+        <file>little/bizhi0.jpg</file>
+        <file>little/bizhi111.png</file>
+        <file>little/bofang.png</file>
+        <file>little/bofangclick.png</file>
+        <file>little/bush_close_up.png</file>
+        <file>little/caidan.png</file>
+        <file>little/caidanclick.png</file>
+        <file>little/danao2.png</file>
+        <file>little/danao3.png</file>
+        <file>little/end.png</file>
+        <file>little/fanhui1.png</file>
+        <file>little/fanhui111.png</file>
+        <file>little/home.click.png</file>
+        <file>little/home.png</file>
+        <file>little/jiangbeijin.png</file>
+        <file>little/jiangbeiying.png</file>
+        <file>little/kaishikaishi.png</file>
+        <file>little/leafbunch1.png</file>
+        <file>little/leafbunch2.png</file>
+        <file>little/naozi.png</file>
+        <file>little/setting.png</file>
+        <file>little/shezhisehzhi.png</file>
+        <file>little/tuichutuichu.png</file>
+        <file>little/zanting.png</file>
+        <file>little/zantingclick.png</file>
+    </qresource>
+</RCC>

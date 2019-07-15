@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtimage/ak47.png</file>
+        <file>qtimage/digua.png</file>
+        <file>qtimage/dilei.png</file>
+        <file>qtimage/dizuan.jpg</file>
+        <file>qtimage/feiji.png</file>
+        <file>qtimage/game.png</file>
+        <file>qtimage/digua1.png</file>
+    </qresource>
+</RCC>

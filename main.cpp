@@ -1,12 +1,10 @@
-#include "hellowidget.h"
-#include "toolwidget.h"
+#include "mainwindow.h"
 #include <QApplication>
-#include<QPushButton>
+
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    HelloWidget w;
-    w.resize(600,450);
+    MainWindow w;
     w.show();
 
     return a.exec();
