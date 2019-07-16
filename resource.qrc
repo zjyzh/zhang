@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Bg.png</file>
+        <file>image/bullet.png</file>
+        <file>image/Default.png</file>
+        <file>image/enemy.png</file>
+        <file>image/icon_gold.png</file>
+        <file>image/icon_HP.png</file>
+        <file>image/open_spot.png</file>
+        <file>image/tower.png</file>
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+    </qresource>
+</RCC>

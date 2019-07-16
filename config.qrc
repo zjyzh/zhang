@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/config">
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+    </qresource>
+</RCC>
